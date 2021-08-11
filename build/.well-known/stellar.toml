@@ -30,3 +30,19 @@ fixed_number=5000000000
 max_number=5000000000
 is_unlimited=false
 #Pegasus was issued using the open and inclusive Stellar blockchain network.
+
+
+[[CURRENCIES]]
+code="ANDROMEDA"
+issuer=""
+anchor_asset="false"
+name="Andromeda"
+desc="Andromeda Token (ADRM) is the result of the collaboration between a team of scientists and also respected financiers, exclusively made for Stellar Space Store.
+Only 500 million tokens will ever be minted ! Andromeda Token will be introduced to the ICO ecosystem, in late autumn 2021."
+conditions="Andromeda is one of the 48 constellations listed by the 2nd-century Greco-Roman astronomer Ptolemy, and one of the 88 modern constellations. Located north of the celestial equator, it is named for Andromeda, daughter of Cassiopeia."
+image="https://ibb.co/b2fbqhn"
+fixed_number=500000000
+max_number=500000000
+is_unlimited=false
+#Andromeda was issued using the open and inclusive Stellar blockchain network.
+
