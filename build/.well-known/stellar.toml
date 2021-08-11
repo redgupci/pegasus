@@ -18,6 +18,7 @@ ORG_OFFICIAL_EMAIL="stellarspacestore@gmail.com"
 [[CURRENCIES]]
 code="PEGS"
 issuer="GAH6QQRL7YKEAO5QFPCTEAKRNV7JTWW5DHBCMAJ6YUADWATJWI7V4LSY"
+display_decimals=3
 anchor_asset="false"
 name="Pegasus"
 desc="Pegasus Token (PEGS) is the creation of specialized scientists from StellarSpace. 
@@ -35,6 +36,7 @@ is_unlimited=false
 [[CURRENCIES]]
 code="ANDROMEDA"
 issuer=""
+display_decimals=3
 anchor_asset="false"
 name="Andromeda"
 desc="Andromeda Token (ADRM) is the result of the collaboration between a team of scientists and also respected financiers, exclusively made for Stellar Space Store.
