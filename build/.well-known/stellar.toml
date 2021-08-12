@@ -1,7 +1,8 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAH6QQRL7YKEAO5QFPCTEAKRNV7JTWW5DHBCMAJ6YUADWATJWI7V4LSY"
+"GDVG5WUUKTQ4DRBXHO6H4CFOCN7G3QHFBG5YFO32UMFJBKOGNX4TGA6B"
+"GCQC4F74O2EMCLT4F42UBVJ6NRC3DD7KZDNMDZBP4TOQYX6M2ZF2ZPH4"
 ]
 VERSION="2.0.0"
 
@@ -16,12 +17,11 @@ ORG_OFFICIAL_EMAIL="stellarspacestore@gmail.com"
 
 [[CURRENCIES]]
 code="PEGS"
-issuer="GAH6QQRL7YKEAO5QFPCTEAKRNV7JTWW5DHBCMAJ6YUADWATJWI7V4LSY"
+issuer="GDVG5WUUKTQ4DRBXHO6H4CFOCN7G3QHFBG5YFO32UMFJBKOGNX4TGA6B"
 display_decimals=3
 anchor_asset="false"
 name="Pegasus"
 desc="Pegasus Token (PEGS) is the creation of specialized scientists from StellarSpace. Only 500 million tokens will be distributed. An introduction of the token to the ICO world is expected for late 2021 and incorporation in the QFS is planned for early 2022."
-
 conditions="Pegasus is the seventh largest constellation in the sky, occupying an area of 1121 square degrees. It is located in the fourth quadrant of the northern hemisphere (NQ4) and can be seen at latitudes between +90° and -60°. The brightest star in Pegasus, is an orange supergiant of spectral type K21b that is around 12 times as massive as the Sun and is around 690 light-years distant from Earth. It is an irregular variable, its apparent magnitude varying between 2.37 and 2.45."
 image="https://ibb.co/Lh8HWBS"
 fixed_number=5000000000
@@ -32,7 +32,7 @@ is_unlimited=false
 
 [[CURRENCIES]]
 code="ANDROMEDA"
-issuer=""
+issuer="GCQC4F74O2EMCLT4F42UBVJ6NRC3DD7KZDNMDZBP4TOQYX6M2ZF2ZPH4"
 display_decimals=3
 anchor_asset="false"
 name="Andromeda"
