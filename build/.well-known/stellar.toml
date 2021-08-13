@@ -11,7 +11,7 @@ ORG_NAME="Stellar Space Store"
 ORG_URL="https://www.stellarspace.org/"
 ORG_DESCRIPTION="Stellar Space Store is the result of the collaboration between finance experts, skillful crypto traders and proficient programmers.Our main goal is to provide value for our customers, as we firmly believe that a quality product will only increase its price in the future, while benefiting everyone!"
 ORG_TWITTER="@stellarspacestore"
-ORG_LOGO="https://ibb.co/zFBXR50"
+ORG_LOGO="https://i.ibb.co/dtVP2cz/Copy-of-Untitled-1.png"
 ORG_OFFICIAL_EMAIL="stellarspacestore@gmail.com"
 
 
@@ -23,7 +23,7 @@ anchor_asset="false"
 name="Pegasus"
 desc="Pegasus Token (PEGAS) is the creation of specialized scientists from StellarSpace. Only 500 million tokens will be distributed. An introduction of the token to the ICO world is expected for late 2021 and incorporation in the QFS is planned for early 2022."
 conditions="Pegasus is the seventh largest constellation in the sky, occupying an area of 1121 square degrees. It is located in the fourth quadrant of the northern hemisphere (NQ4) and can be seen at latitudes between +90° and -60°. The brightest star in Pegasus, is an orange supergiant of spectral type K21b that is around 12 times as massive as the Sun and is around 690 light-years distant from Earth. It is an irregular variable, its apparent magnitude varying between 2.37 and 2.45."
-image="https://ibb.co/Lh8HWBS"
+image="https://i.ibb.co/TqkdSJc/PEGAsus.png"
 fixed_number=5000000000
 max_number=5000000000
 is_unlimited=false
@@ -38,7 +38,7 @@ anchor_asset="false"
 name="Andromeda"
 desc="Andromeda Token (ANDRMD) is the result of the collaboration between a team of scientists and also respected financiers, exclusively made for Stellar Space Store. Only 500 million tokens will ever be minted ! Andromeda Token will be introduced to the ICO ecosystem, in late autumn 2021."
 conditions="Andromeda is one of the 48 constellations listed by the 2nd-century Greco-Roman astronomer Ptolemy, and one of the 88 modern constellations. Located north of the celestial equator, it is named for Andromeda, daughter of Cassiopeia."
-image="https://ibb.co/b2fbqhn"
+image="https://i.ibb.co/Yyr0Y9G/ANDROMEDA.png"
 fixed_number=500000000
 max_number=500000000
 is_unlimited=false
