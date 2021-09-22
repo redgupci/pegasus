@@ -4,7 +4,8 @@ ACCOUNTS=[
 "GCNFHWEHHU4YZHQBENFKASTPXXJNTROVUQMJMRAK7A6PF6OBWFLL6SKU",
 "GBHU34F55ZNMN5CRB5KYCYNZTA43PRIHEU6VQPBXPW2EBUFPE7JOJDC4",
 "GDBC5WZZ6J77HBKP5QJKSPSDCGEHM3HA7KDD6JBB2HQ5ONFSSD5EEMR3",
-"GAV3JT56YRI3Y44RCWB73WFK7UX6SU42AIQRL7L46JAIA2C6EKMAJVV4"
+"GAV3JT56YRI3Y44RCWB73WFK7UX6SU42AIQRL7L46JAIA2C6EKMAJVV4",
+"GDSRJASJS22IYVD6WXAC7FHEFKMIJIWLZCD6LGCJAVZDBZVEZY3LIHUC"
 ]
 VERSION="2.0.0"
 
@@ -74,3 +75,16 @@ max_number=500000000
 is_unlimited=false
 #CORVUS was issued using the open and inclusive Stellar blockchain network.
 
+[[CURRENCIES]]
+code="AQUILASTAR"
+issuer="GDSRJASJS22IYVD6WXAC7FHEFKMIJIWLZCD6LGCJAVZDBZVEZY3LIHUC"
+display_decimals=3
+anchor_asset="false"
+name="AQUILASTAR"
+desc=""
+conditions="With an apparent magnitude of 2.59, Gamma Corvi—also known as Gienah—is the brightest star in the constellation. It is an aging blue giant around four times as massive as the Sun. The young star Eta Corvi has been found to have two debris disks. Three star systems have exoplanets, and a fourth planetary system is unconfirmed. TV Corvi is a dwarf nova—a white dwarf and brown dwarf in very close orbit."
+image="https://i.ibb.co/5BwvQQq/CORVUS.png"
+fixed_number=500000000
+max_number=500000000
+is_unlimited=false
+#CORVUS was issued using the open and inclusive Stellar blockchain network.
