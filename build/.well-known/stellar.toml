@@ -1,28 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAU5ZCYAZUDLBLYPYZQZQKH53QYMDQMOVVJVU53G5NNXW6IB6UDFPHXN"
+"GA35ORZCT4Q5TL2GPUV25JRPUHOX5FHJVOVY3OPVZNHVHT77CTDI4TNI"
 ]
 VERSION="2.2.1"
 
 [DOCUMENTATION]
-ORG_NAME="Stellarverse Solutions"
-ORG_URL="www.stellarversesolutions.com"
-ORG_DESCRIPTION="Stellarverse Solutions is the result of the collaboration between finance experts, skillful crypto traders, and proficient programmers. Our main goal is to provide value for our customers, as we firmly believe that a quality product will only increase its price in the future!"
-ORG_LOGO="https://i.ibb.co/JdYWyk1/Quantum-Gaming-Solutions-1.png"
+ORG_NAME="Stellar Start Exchange"
+ORG_URL="stellarstart.exchange"
+ORG_DESCRIPTION="Stellar Start Exchange is the modernized and rejuvenated stock market, through innovative blockchain technology and a huge variety of investment options, we are sure we can help you invest and you can help your portfolio grow. "
+ORG_LOGO="https://i.ibb.co/y6ZzYdb/stellarstart.png"
 
 
 [[CURRENCIES]]
-code="XLDS"
-issuer="GAU5ZCYAZUDLBLYPYZQZQKH53QYMDQMOVVJVU53G5NNXW6IB6UDFPHXN"
+code="TASTY"
+issuer="GA35ORZCT4Q5TL2GPUV25JRPUHOX5FHJVOVY3OPVZNHVHT77CTDI4TNI"
 display_decimals=3
 anchor_asset="false"
-name="LUDUS"
-desc="LUDUS (XLDS) is a multipurpose token aimed at offering the gaming industry a blockchain based payment system with XLDS as the currency. XLDS will be used for in game payments, NFTs, real life game purchases, reward systems, payment for collectibles  etc. The prospects and possibilities of the gaming industry are endless, therefore XLDS is a token with endless opportunities and uses."
-conditions="Inspired by the Latin word for ‘’Game’’- LUDUS(XLDS) will be the go-to cryptocurrency for game developers, gamers and everyone who has had even the slightest contact with the video games industry."
-image="https://i.ibb.co/HKYYTRp/XLDS.png"
-fixed_number=1000000000
-max_number=1000000000
+name="TASTY"
+desc="Vkusno I tochka”( in translation ,, Tasty and that’s it”) is a Russian company that continues the business of McDonalds in its former Russian locations. The company plans on reopening all 850 restaurants by the end of the year, meanwhile investing in another 150 completely new locations. The revenue of the former McDonalds was more than 2 billion dollars per annum, the new ownership plans on doubling those numbers in the next 5 years."
+image="https://i.ibb.co/KGbGRQm/Vkusno-Tochka.jpg"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#XLDS was issued using the open and inclusive Stellar blockchain network.
+#TASTY was issued using the open and inclusive Stellar blockchain network.
 
