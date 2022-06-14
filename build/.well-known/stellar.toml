@@ -1,7 +1,7 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GA35ORZCT4Q5TL2GPUV25JRPUHOX5FHJVOVY3OPVZNHVHT77CTDI4TNI"
+"GCSFMSUMRNHRQFM2J7725YZLICDQMRJCOYRTC4F4MUSBJZTMSKFT6H3M"
 ]
 VERSION="2.2.1"
 
@@ -14,14 +14,14 @@ ORG_LOGO="https://i.ibb.co/y6ZzYdb/stellarstart.png"
 
 [[CURRENCIES]]
 code="TASTY"
-issuer="GA35ORZCT4Q5TL2GPUV25JRPUHOX5FHJVOVY3OPVZNHVHT77CTDI4TNI"
+issuer="GCSFMSUMRNHRQFM2J7725YZLICDQMRJCOYRTC4F4MUSBJZTMSKFT6H3M"
 display_decimals=3
 anchor_asset="false"
-name="TASTY"
+name="VKUSNO"
 desc="Vkusno I tochka”( in translation ,, Tasty and that’s it”) is a Russian company that continues the business of McDonalds in its former Russian locations. The company plans on reopening all 850 restaurants by the end of the year, meanwhile investing in another 150 completely new locations. The revenue of the former McDonalds was more than 2 billion dollars per annum, the new ownership plans on doubling those numbers in the next 5 years."
 image="https://i.ibb.co/KGbGRQm/Vkusno-Tochka.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#TASTY was issued using the open and inclusive Stellar blockchain network.
+#VKUSNO was issued using the open and inclusive Stellar blockchain network.
 
