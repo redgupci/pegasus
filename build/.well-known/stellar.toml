@@ -1,27 +1,43 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCSFMSUMRNHRQFM2J7725YZLICDQMRJCOYRTC4F4MUSBJZTMSKFT6H3M"
+"GAZOC4XDVEGHFAPJDFEVJX4APQZ465RHZJETETRC3POEE7CAT54C2D4S"
 ]
 VERSION="2.2.1"
 
 [DOCUMENTATION]
-ORG_NAME="Stellar Start Exchange"
-ORG_URL="https://www.stellarstart.exchange/"
-ORG_DESCRIPTION="Stellar Start Exchange is the modernized and rejuvenated stock market, through innovative blockchain technology and a huge variety of investment options, we are sure we can help you invest and you can help your portfolio grow. "
-ORG_LOGO="https://i.ibb.co/y6ZzYdb/stellarstart.png"
+ORG_NAME="Ilota Mining Group"
+ORG_URL="https://www.ilotaminingassets.com/"
+ORG_DESCRIPTION="Ilota is a licensed Mineral mining and selling company based in Democratic Republic of Congo and with operational offices in Uganda. We specialize in buying and selling of gold, gold refinery and smelting, wolfram,tantalite,copper and diamonds.
+
+How we do:
+With a vast number of mines located in the Democratic Republic of Congo, we use open pit and underground operations for mining.Ilota is highly committed to safety, employee wellbeing and protection of the environment.
+
+Mission:
+Is to make profitable production of gold, diamonds and other minerals which we mine and also deal in.We strive to attain this as a company, societies and individuals.
+
+Who we are
+We are a specialized team of professionals that have combined our expertise to bring together what we believe to be sophisticated management team. We are as diverse in our decades of experience as we are individually as leaders in the global mining field.
+
+Our management
+We are a team of management and experience in the mining sector.
+
+Vision
+Is to grow a brand name gold mining company that will deliver superior returns to shareholders, value and develop internal talent, to be committed to international practices and conduct and become a partner of choice for host communities and government. "
+ORG_LOGO="https://i.ibb.co/rdL7Rsv/logo.png"
 
 
 [[CURRENCIES]]
-code="VKUSNO"
-issuer="GCSFMSUMRNHRQFM2J7725YZLICDQMRJCOYRTC4F4MUSBJZTMSKFT6H3M"
+code="UGANDAGOLD"
+issuer="GAZOC4XDVEGHFAPJDFEVJX4APQZ465RHZJETETRC3POEE7CAT54C2D4S"
 display_decimals=3
-anchor_asset="false"
-name="VKUSNO"
-desc="Vkusno I tochka”( in translation ,, Tasty and that’s it”) is a Russian company that continues the business of McDonalds in its former Russian locations. The company plans on reopening all 850 restaurants by the end of the year, meanwhile investing in another 150 completely new locations. The revenue of the former McDonalds was more than 2 billion dollars per annum, the new ownership plans on doubling those numbers in the next 5 years."
-image="https://i.ibb.co/KGbGRQm/Vkusno-Tochka.jpg"
-fixed_number=10000000
-max_number=10000000
+anchor_asset="Uganda Gold"
+anchor_asset_type="Gold"
+name="Uganda Gold"
+desc="Uganda has announced that it has struck a deposit of 31 million tonnes of gold ore, with extractable pure gold estimated to gross 320,000 tonnes. The volume of the reserves is estimated at 31 million tonnes of gold ore, or net 320,158 tonnes of gold, valued at $12.8 trillion, according to a document prepared by the line ministry."
+image="https://i.ibb.co/9nf5xDs/uganda.png"
+fixed_number=100000000000
+max_number=100000000000
 is_unlimited=false
-#VKUSNO was issued using the open and inclusive Stellar blockchain network.
+#UGANDAGOLD was issued using the open and inclusive Stellar blockchain network.
 
