@@ -1,31 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAZOC4XDVEGHFAPJDFEVJX4APQZ465RHZJETETRC3POEE7CAT54C2D4S"
+"GDKLQYJ2IWFPCVJXVPBXPCOJ4D4EMKFJLLSJSOO6VFDPJ4RVBQ3TPF36"
 ]
 VERSION="2.2.1"
 
 [DOCUMENTATION]
-ORG_NAME="Ilota Mining Group"
+ORG_NAME=" China National Offshore Oil Corporation (CNOOC)"
 ORG_URL="https://www.ilotaminingassets.com/"
-ORG_DESCRIPTION="Ilota is a licensed Mineral mining and selling company based in Democratic Republic of Congo and with operational offices in Uganda. We specialize in buying and selling of gold, gold refinery and smelting, wolfram,tantalite,copper and diamonds. How we do:
-With a vast number of mines located in the Democratic Republic of Congo, we use open pit and underground operations for mining.Ilota is highly committed to safety, employee wellbeing and protection of the environment.Mission:
-Is to make profitable production of gold, diamonds and other minerals which we mine and also deal in.We strive to attain this as a company, societies and individuals.Who we are We are a specialized team of professionals that have combined our expertise to bring together what we believe to be sophisticated management team. We are as diverse in our decades of experience as we are individually as leaders in the global mining field.Our management
-We are a team of management and experience in the mining sector.Vision Is to grow a brand name gold mining company that will deliver superior returns to shareholders, value and develop internal talent, to be committed to international practices and conduct and become a partner of choice for host communities and government. "
-ORG_LOGO="https://i.ibb.co/rdL7Rsv/logo.png"
+ORG_DESCRIPTION="China National Offshore Oil Corporation is the largest offshore oil and gas producer in China. Headquartered in Beijing, CNOOC was founded in 1982. After over 30 years of reform and development, it has become an international energy company with prominent core business, a complete industrial chain and business spreading across 40 countries and regions. The five main business segments of the Company are oil & gas exploration and development, engineering and technical services, refining and marketing, natural gas and power generation and financial services. On November 1, 2017, CNOOC changed its Chinese registration name while transforming from an enterprise owned by the whole people into Company Limited (wholly state-owned). The Company was ranked 64th in 2020 Fortune Global 500 and 30th in Petroleum Intelligence Weekly (PIW)'s World's Top 50 Oil Companies. At the end of 2020, Moody's and Standard & Poor's rated the Company with credit ratings of A1 and A+, and the outlook is stable. "
+ORG_LOGO=""
 
 
 [[CURRENCIES]]
-code="UGANDAGOLD"
-issuer="GAZOC4XDVEGHFAPJDFEVJX4APQZ465RHZJETETRC3POEE7CAT54C2D4S"
+code="IRAQOIL"
+issuer="GDKLQYJ2IWFPCVJXVPBXPCOJ4D4EMKFJLLSJSOO6VFDPJ4RVBQ3TPF36"
 display_decimals=3
-anchor_asset="Uganda Gold"
-anchor_asset_type="Gold"
-name="Uganda Gold"
-desc="Uganda has announced that it has struck a deposit of 31 million tonnes of gold ore, with extractable pure gold estimated to gross 320,000 tonnes. The volume of the reserves is estimated at 31 million tonnes of gold ore, or net 320,158 tonnes of gold, valued at $12.8 trillion, according to a document prepared by the line ministry."
-image="https://i.ibb.co/9nf5xDs/uganda.png"
+anchor_asset="Iraq Oil"
+anchor_asset_type="Oil"
+name="IraqOil"
+desc="Oil reserves in Iraq are considered the world's fifth-largest proven oil reserves, with 140 billion barrels. The sources for this oil is primarily located in the Shiite Muslims-majority and Arab Sunni Muslims-dominated areas on the other hand are comparatively lacking."
+image=""
 fixed_number=100000000000
 max_number=100000000000
 is_unlimited=false
-#UGANDAGOLD was issued using the open and inclusive Stellar blockchain network.
+
 
