@@ -1,29 +1,31 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDIBV7ACICCLIGD4T7Q4MRGT6SGDG44UG4NZLEYJZDABUCOJUZRP6P2N"
+"GBKBCYGEBFUSCD4UAM5C3BOQPUFBDOBWNKPJ3NG2S7WNRE7TFAERHPSR"
 ]
 VERSION="2.2.1"
 
 [DOCUMENTATION]
-ORG_NAME=" Wagagai Mining Uganda limited"
-ORG_URL="https://www.wagagaiassets.com/"
-ORG_DESCRIPTION=" WAGAGAI MINING LIMITED is a subsidiary of Liaoning Fangda Group Industrial Company Ltd. Liaoning Fangda Group Industrial Company Ltd is a Chinese industrial conglomerate focusing on carbon, chemicals, medical, steel products manufacturing, real estate development, mining, coking, and other services. As of September 24, 2021, Liaoning Fangda Group Industrial Company Ltd took over control in HNA Group's Aviation division, including its flagship Hainan Airlines"
-ORG_LOGO=""
+ORG_NAME="A.P. Moller - Maersk"
+ORG_URL="https://www.maersk.com"
+ORG_LOGO="https://maerskcom.digital/maersk.png"
+ORG_OFFICIAL_EMAIL="digital@maersk.com"
+ORG_DESCRIPTION="Logistics made easy through digital solutions. We make it easy to manage your shipments and logistics online. From finding a price and making bookings to submitting documents and tracking cargo."
 
 
 [[CURRENCIES]]
-code="WAGAGAI"
-issuer="GDIBV7ACICCLIGD4T7Q4MRGT6SGDG44UG4NZLEYJZDABUCOJUZRP6P2N"
+code="PROMAN"
+status="live"
+issuer="GBKBCYGEBFUSCD4UAM5C3BOQPUFBDOBWNKPJ3NG2S7WNRE7TFAERHPSR"
 display_decimals=3
-anchor_asset="Uganda Gold"
-anchor_asset_type="Gold"
-name="WAGAGAI GOLD"
-desc="The only real WAGAGAI MINING LIMITED account on the Stellar Network. Uganda has discovered 31 million tonnes of gold following a series of surveys. The gold can be mined with immediate effect.The Ugandan government has already licensed Chinese firm Wagagai Gold Mining Company to start production in Busia district."
-conditions="All investments made are equivalent to the amount of gold extracted and its increase in value over time. "
-image=""
-fixed_number=100000000000
-max_number=100000000000
+name="Proman AG"
+desc="Proman is a global leader in methanol, fertilizer and other natural gas derived products. Our unique fully-integrated approach encompasses the entire value chain, from development through to operating and logistics. Founded in 1984, Proman started as a PROject MANagement company specialised in the construction of large industrial projects. Today we are a global leader in natural gas derived products and services.  Headquartered in Switzerland, we are a multi-asset, multi-regional diversified energy producer with methanol and fertilizer production facilities in Trinidad and Tobago, the United States and Oman and we are currently expanding into Mexico. "
+image="https://maerskcom.digital/proman.png"
+is_asset_anchored=true
+anchor_asset_type="stock"
+anchor_asset="GLOBAL TRADE"
+fixed_number=150000000
+max_number=150000000
 is_unlimited=false
 
 
