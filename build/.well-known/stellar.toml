@@ -1,25 +1,26 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDKLQYJ2IWFPCVJXVPBXPCOJ4D4EMKFJLLSJSOO6VFDPJ4RVBQ3TPF36"
+"GDIBV7ACICCLIGD4T7Q4MRGT6SGDG44UG4NZLEYJZDABUCOJUZRP6P2N"
 ]
 VERSION="2.2.1"
 
 [DOCUMENTATION]
-ORG_NAME=" China National Offshore Oil Corporation (CNOOC)"
-ORG_URL="https://www.ilotaminingassets.com/"
-ORG_DESCRIPTION="China National Offshore Oil Corporation is the largest offshore oil and gas producer in China. Headquartered in Beijing, CNOOC was founded in 1982. After over 30 years of reform and development, it has become an international energy company with prominent core business, a complete industrial chain and business spreading across 40 countries and regions. The five main business segments of the Company are oil & gas exploration and development, engineering and technical services, refining and marketing, natural gas and power generation and financial services. On November 1, 2017, CNOOC changed its Chinese registration name while transforming from an enterprise owned by the whole people into Company Limited (wholly state-owned). The Company was ranked 64th in 2020 Fortune Global 500 and 30th in Petroleum Intelligence Weekly (PIW)'s World's Top 50 Oil Companies. At the end of 2020, Moody's and Standard & Poor's rated the Company with credit ratings of A1 and A+, and the outlook is stable. "
+ORG_NAME=" Wagagai Mining Uganda limited"
+ORG_URL="https://www.wagagaiassets.com/"
+ORG_DESCRIPTION=" WAGAGAI MINING LIMITED is a subsidiary of Liaoning Fangda Group Industrial Company Ltd. Liaoning Fangda Group Industrial Company Ltd is a Chinese industrial conglomerate focusing on carbon, chemicals, medical, steel products manufacturing, real estate development, mining, coking, and other services. As of September 24, 2021, Liaoning Fangda Group Industrial Company Ltd took over control in HNA Group's Aviation division, including its flagship Hainan Airlines"
 ORG_LOGO=""
 
 
 [[CURRENCIES]]
-code="IRAQOIL"
-issuer="GDKLQYJ2IWFPCVJXVPBXPCOJ4D4EMKFJLLSJSOO6VFDPJ4RVBQ3TPF36"
+code="WAGAGAI"
+issuer="GDIBV7ACICCLIGD4T7Q4MRGT6SGDG44UG4NZLEYJZDABUCOJUZRP6P2N"
 display_decimals=3
-anchor_asset="Iraq Oil"
-anchor_asset_type="Oil"
-name="IraqOil"
-desc="Oil reserves in Iraq are considered the world's fifth-largest proven oil reserves, with 140 billion barrels. The sources for this oil is primarily located in the Shiite Muslims-majority and Arab Sunni Muslims-dominated areas on the other hand are comparatively lacking."
+anchor_asset="Uganda Gold"
+anchor_asset_type="Gold"
+name="WAGAGAI GOLD"
+desc="The only real WAGAGAI MINING LIMITED account on the Stellar Network. Uganda has discovered 31 million tonnes of gold following a series of surveys. The gold can be mined with immediate effect.The Ugandan government has already licensed Chinese firm Wagagai Gold Mining Company to start production in Busia district."
+conditions="All investments made are equivalent to the amount of gold extracted and its increase in value over time. "
 image=""
 fixed_number=100000000000
 max_number=100000000000
