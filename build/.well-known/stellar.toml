@@ -1,31 +1,31 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GBKBCYGEBFUSCD4UAM5C3BOQPUFBDOBWNKPJ3NG2S7WNRE7TFAERHPSR"
+"GBQA5CHXLMFDMQUASLR2GWPFAHRYYC3K7JPWRTJ4T2GHOVAP6JNAAEVI"
 ]
 VERSION="2.2.1"
 
 [DOCUMENTATION]
-ORG_NAME="A.P. Moller - Maersk"
-ORG_URL="https://www.maersk.com"
-ORG_LOGO="https://maerskcom.digital/maersk.png"
-ORG_OFFICIAL_EMAIL="digital@maersk.com"
-ORG_DESCRIPTION="Logistics made easy through digital solutions. We make it easy to manage your shipments and logistics online. From finding a price and making bookings to submitting documents and tracking cargo."
+ORG_NAME="Ethereum Foundation"
+ORG_URL="https://ethereumfoundation.tech"
+ORG_LOGO="https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/0f3ee/hero.png"
+ORG_OFFICIAL_EMAIL="foundation@ethereum.com"
+ORG_DESCRIPTION="Ethereum is a technology for building apps and organizations, holding assets, transacting and communicating without being controlled by a central authority. There is no need to hand over all your personal details to use Ethereum - you keep control of your own data and what is being shared. Ethereum has its own cryptocurrency, Ether, which is used to pay for certain activities on the Ethereum network."
 
 
 [[CURRENCIES]]
-code="PROMAN"
+code="ETH2"
 status="live"
-issuer="GBKBCYGEBFUSCD4UAM5C3BOQPUFBDOBWNKPJ3NG2S7WNRE7TFAERHPSR"
+issuer="GBQA5CHXLMFDMQUASLR2GWPFAHRYYC3K7JPWRTJ4T2GHOVAP6JNAAEVI"
 display_decimals=3
-name="Proman AG"
-desc="Proman is a global leader in methanol, fertilizer and other natural gas derived products. Our unique fully-integrated approach encompasses the entire value chain, from development through to operating and logistics. Founded in 1984, Proman started as a PROject MANagement company specialised in the construction of large industrial projects. Today we are a global leader in natural gas derived products and services.  Headquartered in Switzerland, we are a multi-asset, multi-regional diversified energy producer with methanol and fertilizer production facilities in Trinidad and Tobago, the United States and Oman and we are currently expanding into Mexico. "
-image="https://maerskcom.digital/proman.png"
+name="ETHEREUM 2.0"
+desc="Originally referred to as Ethereum 2.0, the merge is an upgraded version of the Ethereum blockchain that uses a proof-of-stake consensus mechanism to verify transactions via staking. The staking mechanism Ethereum replaces the proof-of-work model where cryptocurrency miners use high-powered computers to complete complex mathematical functions known as hashes. The mining process requires an ever-increasing amount of electricity to verify Ethereum transactions before they are recorded on the public blockchain."
+image="https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/0f3ee/hero.png"
 is_asset_anchored=true
-anchor_asset_type="stock"
-anchor_asset="GLOBAL TRADE"
-fixed_number=150000000
-max_number=150000000
+anchor_asset_type="commodity"
+anchor_asset="CRYPTOCURRENCY"
+fixed_number=1000000000
+max_number=1000000000
 is_unlimited=false
 
 
