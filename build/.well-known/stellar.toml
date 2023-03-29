@@ -1,31 +1,33 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GBQA5CHXLMFDMQUASLR2GWPFAHRYYC3K7JPWRTJ4T2GHOVAP6JNAAEVI"
+"GBS3MGSLCQ7EE73OGHLHXFNLTGTMTTKFVOSNEWDZLUFMMDOUV4IA4ZJC"
 ]
 VERSION="2.2.1"
 
 [DOCUMENTATION]
-ORG_NAME="Ethereum Foundation"
-ORG_URL="https://ethereumfoundation.tech"
-ORG_LOGO="https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/0f3ee/hero.png"
-ORG_OFFICIAL_EMAIL="foundation@ethereum.com"
-ORG_DESCRIPTION="Ethereum is a technology for building apps and organizations, holding assets, transacting and communicating without being controlled by a central authority. There is no need to hand over all your personal details to use Ethereum - you keep control of your own data and what is being shared. Ethereum has its own cryptocurrency, Ether, which is used to pay for certain activities on the Ethereum network."
-
+ORG_NAME="Alphabet INC."
+ORG_URL="https://"
+ORG_LOGO="https://stellar-alphabet.com/logo.png"
+ORG_OFFICIAL_EMAIL=""
+ORG_PHYSICAL_ADDRESS="1600 Amphitheatre Parkway Mountain View, CA 94043 "
 
 [[CURRENCIES]]
-code="ETH2"
+code="ALPHABET"
 status="live"
-issuer="GBQA5CHXLMFDMQUASLR2GWPFAHRYYC3K7JPWRTJ4T2GHOVAP6JNAAEVI"
+issuer="GBS3MGSLCQ7EE73OGHLHXFNLTGTMTTKFVOSNEWDZLUFMMDOUV4IA4ZJC"
 display_decimals=3
-name="ETHEREUM 2.0"
-desc="Originally referred to as Ethereum 2.0, the merge is an upgraded version of the Ethereum blockchain that uses a proof-of-stake consensus mechanism to verify transactions via staking. The staking mechanism Ethereum replaces the proof-of-work model where cryptocurrency miners use high-powered computers to complete complex mathematical functions known as hashes. The mining process requires an ever-increasing amount of electricity to verify Ethereum transactions before they are recorded on the public blockchain."
-image="https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/0f3ee/hero.png"
+name="ALPHABET INC."
+desc="Alphabet Inc (Alphabet), the holding company of Google, is a global technology company. It offers a wide range of products and platforms, including search, maps, calendar, ads, Gmail, Google Play, Android, google cloud, chrome, and YouTube."
+image="https://stellar-alphabet.com/logo.png"
 is_asset_anchored=true
 anchor_asset_type="commodity"
 anchor_asset="CRYPTOCURRENCY"
-fixed_number=1000000000
-max_number=1000000000
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
+[[PRINCIPALS]]
+name="James Edward Keenan"
+email="ceo@alphabet.com"
 
 
