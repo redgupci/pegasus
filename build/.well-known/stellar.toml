@@ -2,33 +2,30 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 VERSION="2.2.1"
 
-ACCOUNTS=["GBS3MGSLCQ7EE73OGHLHXFNLTGTMTTKFVOSNEWDZLUFMMDOUV4IA4ZJC"]
+ACCOUNTS=["GDC4XOKLHQZPGTNYIXMCI6UNT6WBZZQDKXMREIOXUUBUGZKY2IGA67CF"]
 
 
 
 [DOCUMENTATION]
-ORG_NAME="Alphabet INC."
+ORG_NAME="SBI Shinsei Bank"
 ORG_URL="https://"
-ORG_LOGO="https://stellar-alphabet.com/logo.png"
-ORG_OFFICIAL_EMAIL=""
-ORG_PHYSICAL_ADDRESS="1600 Amphitheatre Parkway Mountain View, CA 94043 "
+ORG_LOGO="https://www.sbishinseibank.co.jp/common21/imgs/img_logo_ogp.png"
+ORG_OFFICIAL_EMAIL="contact@shinseibank.com"
+ORG_PHYSICAL_ADDRESS="2-4-3 Nihonbashi-Muromachi, Chuo-ku, Tokyo"
 
 [[CURRENCIES]]
-code="Tokenname"
+code="SBIBANK"
 status="live"
-issuer="GBS3MGSLCQ7EE73OGHLHXFNLTGTMTTKFVOSNEWDZLUFMMDOUV4IA4ZJC"
+issuer="GDC4XOKLHQZPGTNYIXMCI6UNT6WBZZQDKXMREIOXUUBUGZKY2IGA67CF"
 display_decimals=3
-name="ALPHABET INC."
-desc="Alphabet Inc (Alphabet), the holding company of Google, is a global technology company. It offers a wide range of products and platforms, including search, maps, calendar, ads, Gmail, Google Play, Android, google cloud, chrome, and YouTube."
-image="https://stellar-alphabet.com/logo.png"
-is_asset_anchored=true
-anchor_asset_type="commodity"
-anchor_asset="CRYPTOCURRENCY"
-fixed_number=10000000
-max_number=10000000
+name="SBI SHINSEI BANK"
+desc="SBI Shinsei Bank, Limited is a leading diversified Japanese financial institution that provides a full range of financial products and services to both institutional and individual customers. It is owned by SBI Group and headquartered in Chuo, Tokyo "
+image="https://www.sbishinseibank.co.jp/common21/imgs/img_logo_ogp.png"
+fixed_number=1000000000
+max_number=1000000000
 is_unlimited=false
 [[PRINCIPALS]]
-name="James Edward Keenan"
-email="ceo@alphabet.com"
+name="Hideyuki Kudo"
+email="ceo@shinseibank.com"
 
 
