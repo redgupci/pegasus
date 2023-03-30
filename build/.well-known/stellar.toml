@@ -1,8 +1,7 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GBS3MGSLCQ7EE73OGHLHXFNLTGTMTTKFVOSNEWDZLUFMMDOUV4IA4ZJC"(issuing account)
-]
+"GBS3MGSLCQ7EE73OGHLHXFNLTGTMTTKFVOSNEWDZLUFMMDOUV4IA4ZJC"
 VERSION="2.2.1"
 
 [DOCUMENTATION]
@@ -15,16 +14,16 @@ ORG_PHYSICAL_ADDRESS="1600 Amphitheatre Parkway Mountain View, CA 94043 "
 [[CURRENCIES]]
 code="Tokenname"
 status="live"
-issuer="GBS3MGSLCQ7EE73OGHLHXFNLTGTMTTKFVOSNEWDZLUFMMDOUV4IA4ZJC"(issuing account)
+issuer="GBS3MGSLCQ7EE73OGHLHXFNLTGTMTTKFVOSNEWDZLUFMMDOUV4IA4ZJC"
 display_decimals=3
-name="ALPHABET INC."(nume complet token)
+name="ALPHABET INC."
 desc="Alphabet Inc (Alphabet), the holding company of Google, is a global technology company. It offers a wide range of products and platforms, including search, maps, calendar, ads, Gmail, Google Play, Android, google cloud, chrome, and YouTube."
 image="https://stellar-alphabet.com/logo.png"
 is_asset_anchored=true
 anchor_asset_type="commodity"
 anchor_asset="CRYPTOCURRENCY"
-fixed_number=10000000(nr de tokenuri care ai facut)
-max_number=10000000( nr de tokenuri care ai facut)
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
 [[PRINCIPALS]]
 name="James Edward Keenan"
