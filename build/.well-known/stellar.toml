@@ -2,25 +2,25 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 VERSION="2.2.1"
 
-ACCOUNTS=["GDC4XOKLHQZPGTNYIXMCI6UNT6WBZZQDKXMREIOXUUBUGZKY2IGA67CF"]
+ACCOUNTS=["GAFUUJTR4J6QSBBT3R567BKMTIHUBLA7MCDVZTWDZJJNBZHMYZ4EVU2Q"]
 
 
 
 [DOCUMENTATION]
-ORG_NAME="SBI Shinsei Bank"
+ORG_NAME="ARAMCO"
 ORG_URL="https://"
-ORG_LOGO="https://www.sbishinseibank.co.jp/common21/imgs/img_logo_ogp.png"
+ORG_LOGO="https://media.discordapp.net/attachments/938155051313160292/1090996751466496171/download.jpg"
 ORG_OFFICIAL_EMAIL="contact@shinseibank.com"
 ORG_PHYSICAL_ADDRESS="2-4-3 Nihonbashi-Muromachi, Chuo-ku, Tokyo"
 
 [[CURRENCIES]]
-code="SBIBANK"
+code="ARAMCO"
 status="live"
-issuer="GDC4XOKLHQZPGTNYIXMCI6UNT6WBZZQDKXMREIOXUUBUGZKY2IGA67CF"
+issuer="GAFUUJTR4J6QSBBT3R567BKMTIHUBLA7MCDVZTWDZJJNBZHMYZ4EVU2Q"
 display_decimals=3
-name="SBI SHINSEI BANK"
-desc="SBI Shinsei Bank, Limited is a leading diversified Japanese financial institution that provides a full range of financial products and services to both institutional and individual customers. It is owned by SBI Group and headquartered in Chuo, Tokyo "
-image="https://www.sbishinseibank.co.jp/common21/imgs/img_logo_ogp.png"
+name="ARAMCO OIL GROUP"
+desc="Aramco, is a Saudi Arabian public petroleum and natural gas company based in Dhahran. As of 2022, it is one of the largest companies in the world by revenue, giving it a market capitalisation of about US$1.88 trillion. "
+image="https://media.discordapp.net/attachments/938155051313160292/1090996751466496171/download.jpg"
 fixed_number=1000000000
 max_number=1000000000
 is_unlimited=false
