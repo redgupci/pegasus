@@ -10,8 +10,8 @@ ACCOUNTS=["GAFUUJTR4J6QSBBT3R567BKMTIHUBLA7MCDVZTWDZJJNBZHMYZ4EVU2Q"]
 ORG_NAME="ARAMCO"
 ORG_URL="https://"
 ORG_LOGO="https://media.discordapp.net/attachments/938155051313160292/1090996751466496171/download.jpg"
-ORG_OFFICIAL_EMAIL="contact@shinseibank.com"
-ORG_PHYSICAL_ADDRESS="2-4-3 Nihonbashi-Muromachi, Chuo-ku, Tokyo"
+ORG_OFFICIAL_EMAIL="contact@aramco.com"
+ORG_PHYSICAL_ADDRESS="Dhahran 31311, Saudi Arabia"
 
 [[CURRENCIES]]
 code="ARAMCO"
@@ -25,7 +25,7 @@ fixed_number=1000000000
 max_number=1000000000
 is_unlimited=false
 [[PRINCIPALS]]
-name="Hideyuki Kudo"
-email="ceo@shinseibank.com"
+name="Amin H. Nasser"
+email="ceo@aramco.com"
 
 
