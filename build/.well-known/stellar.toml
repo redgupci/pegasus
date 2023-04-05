@@ -11,7 +11,7 @@ ORG_NAME="meta"
 ORG_URL="https://"
 ORG_LOGO="https://media.discordapp.net/attachments/938155051313160292/1090996751466496171/download.jpg"
 ORG_OFFICIAL_EMAIL="contact@aramco.com"
-ORG_PHYSICAL_ADDRESS="Dhahran 31311, Saudi Arabia"
+ORG_PHYSICAL_ADDRESS="Hollywood Boulevard, Los Angeles"
 
 [[CURRENCIES]]
 code="META"
