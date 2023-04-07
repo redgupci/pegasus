@@ -2,30 +2,31 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 VERSION="2.2.1"
 
-ACCOUNTS=["GBP7NP37GMTJQBQQ75I4DA3DZ6RDQ2FRSNZIZGKDLNDVV6ZL5CUD5QDH"]
+ACCOUNTS=["GB72TQUQTKPE2QJ2M2VWKIWMM3KJWL3UTYJJVL3YS6XLIYKLRZZECRZL"]
 
 
 
 [DOCUMENTATION]
-ORG_NAME="meta"
-ORG_URL="https://"
-ORG_LOGO="https://media.discordapp.net/attachments/938155051313160292/1090996751466496171/download.jpg"
-ORG_OFFICIAL_EMAIL="contact@aramco.com"
+ORG_NAME="BRC"
+ORG_URL="https://brc-stellar.org/"
+ORG_LOGO="https://media.discordapp.net/attachments/938155051313160292/1093905741821268028/blackrock_logo.png"
+ORG_OFFICIAL_EMAIL="contact@BLACKROCK.com"
 ORG_PHYSICAL_ADDRESS="Hollywood Boulevard, Los Angeles"
 
 [[CURRENCIES]]
-code="META"
+code="BRC"
 status="live"
-issuer="GBP7NP37GMTJQBQQ75I4DA3DZ6RDQ2FRSNZIZGKDLNDVV6ZL5CUD5QDH"
+issuer="GB72TQUQTKPE2QJ2M2VWKIWMM3KJWL3UTYJJVL3YS6XLIYKLRZZECRZL"
 display_decimals=3
-name="META PLATFORMS"
-desc="eta Platforms, Inc., doing business as Meta and formerly named Facebook, Inc., and TheFacebook, Inc., is an American multinational technology conglomerate based in Menlo Park, California. The company owns Facebook, Instagram, and WhatsApp, among other products and services. "
-image="https://media.discordapp.net/attachments/938155051313160292/1090996751466496171/download.jpg"
+name="BRC"
+desc="BRC is the cryptocurrency coin that powers the BRC Chain ecosystem. As one of the world's most popular utility tokens, not only can you trade BRC like any other cryptocurrency, you can also use BRC in a wide range of applications and use cases."
+
+image="https://media.discordapp.net/attachments/938155051313160292/1093905741821268028/blackrock_logo.png"
 fixed_number=1000000000
 max_number=1000000000
 is_unlimited=false
 [[PRINCIPALS]]
-name="Mark Zuck"
-email="ceo@meta.com"
+name="Laurence Douglas Fink"
+email="ceo@blackrock.com"
 
 
